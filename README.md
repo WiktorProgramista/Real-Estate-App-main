@@ -15,8 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Real-Estate-App
-![Screenshot_2024-02-15-15-12-09-73_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/c58f9579-2590-46fe-ac54-9fae70501ade)![Screenshot_2024-02-15-15-12-35-87_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/df0b6edc-ba3a-4744-9d8c-839a1405b552)
-![Screenshot_2024-02-15-15-12-33-01_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/696262cf-92ed-43f2-83d9-93dfcf42ff4b)
-![Screenshot_2024-02-15-15-12-27-61_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/c70aa505-08bb-416c-978b-8472f126c3ee)
-![Screenshot_2024-02-15-15-12-14-12_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/015af98d-3781-4fdf-a34d-4f0ee015d1b2)
-
+![Screenshot_2024-02-15-15-12-09-73_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/6b77e4d5-af62-4e62-abb5-ffe72d12a8db)
+![Screenshot_2024-02-15-15-12-35-87_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/4bddad7a-b8cd-4869-b631-0bfef3514af7)
+![Screenshot_2024-02-15-15-12-33-01_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/e269aa53-8535-4875-b7e7-ae95906fe825)
+![Screenshot_2024-02-15-15-12-27-61_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/a2178d5a-736a-485d-ae48-17d128ddcad8)
+![Screenshot_2024-02-15-15-12-14-12_fe0714ef57ac06fbfd6e16962b60e4db](https://github.com/WiktorProgramista/Real-Estate-App-main/assets/62619318/39c61d17-b911-464d-9b2a-35f161cdfe33)
